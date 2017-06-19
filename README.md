@@ -4,6 +4,7 @@
 
 ```sh
 git clone https://github.com/Cocoon-break/wechat_public_template.git
+cd wechat_public_template
 npm install 
 npm start
 ```
